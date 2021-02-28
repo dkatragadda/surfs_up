@@ -18,7 +18,7 @@ The purpose of this analysis was to use our skills in connecting to a Sqlite dat
 
 ## Summary
 
-Based on the analysis completed, the weather in Oahu is considerably favourable to opening a surf and ice-cream shop year-around. The standard deviation for the month of June is 3.25 degrees F and the standard deviation for the month of December is 3.74 degrees F. The results show that the temperature does not swing wildly based on the data.   
+Based on the analysis completed, the weather in Oahu is considerably favourable to opening a surf and ice-cream shop year-around. The standard deviation for the month of June is 3.25 degrees F and the standard deviation for the month of December is 3.74 degrees F. The results show that the temperature does not swing wildly based on the data and is fairly consistent in June and December.   
 
 
 Two additional queries that would help in gathering more information regarding the temperature are:
